@@ -3,7 +3,6 @@ Welcome to repository for the ML-for-NLP Final Project
 
 ![](https://img.shields.io/badge/Process-100%25-green) 
 ![](https://img.shields.io/badge/Language-Python-9cf.svg) 
-![](https://img.shields.io/badge/Email-chen__che@student.ceu.edu-lightgrey.svg?style=social&logo=github)
 
 This is the guideline for the final project of the course.
 > [Guideline for final project](https://docs.google.com/document/d/1gSPxwegT-6nJr60IvdjZWVJhAgJdNQYDg7bIfvNrCV4/edit "Guideline for final project")
